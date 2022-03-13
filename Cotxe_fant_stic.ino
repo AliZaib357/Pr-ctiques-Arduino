@@ -32,7 +32,7 @@ for(nPin=5; nPin>0; nPin --)
   delay(temps*2);
  }
 }
-  
+  //OK
 
 
 
