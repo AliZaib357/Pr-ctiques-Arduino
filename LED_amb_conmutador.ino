@@ -27,4 +27,4 @@ if(pulsacions%2==0){
     }
 }
 
-  
+  //OK
