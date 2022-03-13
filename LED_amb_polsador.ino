@@ -12,3 +12,4 @@ void loop()
  int valor=digitalRead(boto);
  digitalWrite(LED,valor);
 }
+//OK
