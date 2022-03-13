@@ -30,3 +30,4 @@ for(pwm=256; pwm>-1; pwm--)
  if(nPin==3)nPin=0;
  
 }
+OK
